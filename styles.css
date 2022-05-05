@@ -1,0 +1,53 @@
+/* ======================================================
+   OEFENEN MET CSS SELECTORS
+========================================================= */
+
+/* 0: Voorbeeld: maak de achtergrondkleur van de pagina wit */
+
+body {
+    background-color: white;
+}
+
+/* 1: Geef de twee <h3>-tags van de artikelen ("Latest articles") in het HTML-document beiden de class-naam "article-title".
+Gebruik dit om de tekstkleur van de titels te veranderen naar grijs, met de declaratie "color: grey;" */
+
+
+
+/* 2: Geef de <span>-tag in de footer van het HTML-document een passende class-naam. Gebruik de declaratie "font-size: 10px;"
+om de tekst kleiner te maken */
+
+
+
+/* 3: Gebruik een type selector om alle headings op de pagina (<h1>, <h2> en <h3>) in een ander lettertype weer te geven.
+Gebruik de declaratie "font-family: 'Noto Sans JP', sans-serif;" */
+
+
+
+/* 4: De header afbeelding is op dit moment te groot. Geef de <img>-tag in de header van het HTML-document een passende id-naam,
+zodat we de declaratie "width: 100%;" in de CSS erop toe te passen */
+
+
+
+/* 5: Er staan meerdere links in het document. Zorg ervoor dat alleen de links in de navigatiebalk de tekstkleur "indianred" krijgen.
+Tip: gebruik hier een combinator voor. */
+
+
+
+/* 6: Zorg ervoor dat alleen de links in de navigatiebalk naar de tekstkleur "firebrick" veranderen, wanneer je er met jouw muis
+overheen hovert. Tip: gebruik hier een pseudo-class voor. */
+
+
+
+/* 7: De buttons staan op dit moment te dicht bij elkaar. Zorg ervoor dat je de declaratie "margin-left: 16px;" kunt toepassen
+op de rechter button. Tip: gebruik hier een combinator voor. */
+
+
+
+/* 8: Geef de <input>-tag van het formulier van het HTML-document een passende class-naam. Zorg ervoor dat dit veld de
+achtergrondkleur "forestgreen" krijgt, wanneer de gebruiker het veld aanklikt.
+Tip: gebruik hier naast een class-selector, ook een pseudo-class voor.*/
+
+
+
+/* 9: Geef alle list-items onder het kopje <h2>Best places to visit</h2> de tekstkleur "forestgreen".
+Tip: gebruik hier een combinator voor. */
